@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Never Enough (Loren's Version)",
+  "base_artist": "Loren Allred",
+  "createdAt": "2026-03-27T08:47:36.217493Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Enough (Loren's Version)",
+      "artist": "Loren Allred",
+      "has_synced": false,
+      "path": "select/01_Never_Enough_(Loren's_Version)_Loren_Allred.txt"
+    }
+  ]
+}
